@@ -1,0 +1,7 @@
+D:\DevOps\Lab\ADO\.Net\helloworldapp\HelloWoldApp.Web\bin\release\net8.0\publish\HelloWoldApp.Web.exe
+D:\DevOps\Lab\ADO\.Net\helloworldapp\HelloWoldApp.Web\bin\release\net8.0\publish\appsettings.Development.json
+D:\DevOps\Lab\ADO\.Net\helloworldapp\HelloWoldApp.Web\bin\release\net8.0\publish\appsettings.json
+D:\DevOps\Lab\ADO\.Net\helloworldapp\HelloWoldApp.Web\bin\release\net8.0\publish\HelloWoldApp.Web.dll
+D:\DevOps\Lab\ADO\.Net\helloworldapp\HelloWoldApp.Web\bin\release\net8.0\publish\HelloWoldApp.Web.deps.json
+D:\DevOps\Lab\ADO\.Net\helloworldapp\HelloWoldApp.Web\bin\release\net8.0\publish\HelloWoldApp.Web.runtimeconfig.json
+D:\DevOps\Lab\ADO\.Net\helloworldapp\HelloWoldApp.Web\bin\release\net8.0\publish\HelloWoldApp.Web.pdb

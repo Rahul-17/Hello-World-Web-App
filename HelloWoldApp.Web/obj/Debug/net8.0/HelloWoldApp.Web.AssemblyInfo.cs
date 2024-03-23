@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloWoldApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61eccefa9d8c7813601a2d1c4c9152fdc0175315")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloWoldApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloWoldApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
